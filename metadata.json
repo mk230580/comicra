@@ -1,0 +1,5 @@
+{
+  "name": "Comicra with DB",
+  "description": "Comicra: AI + Imagination. An application to automatically generate comics. Users can create panel layouts, upload character sheets, and provide a story to generate pages with the help of AI.",
+  "requestFramePermissions": []
+}
